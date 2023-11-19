@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "./an1119.html",
+            "src": "an1119.html",
             "use": "@vercel/python"
         }
     ],
